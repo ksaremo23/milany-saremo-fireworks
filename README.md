@@ -11,7 +11,15 @@ Website for **Milany Saremo Fireworks** — a family fireworks business. Design 
 - **Guides section** — Buying guide, delivery, FAQs, Fireworks Code
 - **Footer** — Contact, newsletter, links
 
-## How to run
+## Deploy on Vercel
+
+1. Go to [vercel.com](https://vercel.com) and sign in (or create an account).
+2. Click **Add New…** → **Project**.
+3. **Import** your GitHub repo: `ksaremo23/milany-saremo-fireworks`.
+4. Leave **Build Command** and **Output Directory** as default (no build needed).
+5. Click **Deploy**. Your site will be live at `https://your-project.vercel.app`.
+
+## How to run locally
 
 No build step required. Open the site in a browser:
 
